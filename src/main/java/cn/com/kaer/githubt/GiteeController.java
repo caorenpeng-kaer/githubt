@@ -6,6 +6,7 @@ package cn.com.kaer.githubt;
  */
 public class GiteeController {
     public static void main(String[] args) {
-        System.out.println("github");
+        System.out.println("github12321312");
+        System.out.println("dasdasdas");
     }
 }
